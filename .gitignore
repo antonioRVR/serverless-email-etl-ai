@@ -150,6 +150,8 @@ activemq-data/
 # Environments
 .env
 .envrc
+credentials.json
+token.json
 .venv
 env/
 venv/
